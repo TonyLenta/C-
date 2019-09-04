@@ -1,0 +1,17 @@
+C:\Users\Aaron\source\repos\EJERCICIO10\EJERCICIO10\bin\Debug\EJERCICIO10.exe.config
+C:\Users\Aaron\source\repos\EJERCICIO10\EJERCICIO10\bin\Debug\EJERCICIO10.exe
+C:\Users\Aaron\source\repos\EJERCICIO10\EJERCICIO10\bin\Debug\EJERCICIO10.pdb
+C:\Users\Aaron\source\repos\EJERCICIO10\EJERCICIO10\obj\Debug\EJERCICIO10.csprojAssemblyReference.cache
+C:\Users\Aaron\source\repos\EJERCICIO10\EJERCICIO10\obj\Debug\MainWindow.g.cs
+C:\Users\Aaron\source\repos\EJERCICIO10\EJERCICIO10\obj\Debug\App.g.cs
+C:\Users\Aaron\source\repos\EJERCICIO10\EJERCICIO10\obj\Debug\EJERCICIO10_MarkupCompile.cache
+C:\Users\Aaron\source\repos\EJERCICIO10\EJERCICIO10\obj\Debug\EJERCICIO10_MarkupCompile.lref
+C:\Users\Aaron\source\repos\EJERCICIO10\EJERCICIO10\obj\Debug\MainWindow.baml
+C:\Users\Aaron\source\repos\EJERCICIO10\EJERCICIO10\obj\Debug\EJERCICIO10.g.resources
+C:\Users\Aaron\source\repos\EJERCICIO10\EJERCICIO10\obj\Debug\EJERCICIO10.Properties.Resources.resources
+C:\Users\Aaron\source\repos\EJERCICIO10\EJERCICIO10\obj\Debug\EJERCICIO10.csproj.GenerateResource.cache
+C:\Users\Aaron\source\repos\EJERCICIO10\EJERCICIO10\obj\Debug\EJERCICIO10.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\EJERCICIO10\EJERCICIO10\obj\Debug\EJERCICIO10.exe
+C:\Users\Aaron\source\repos\EJERCICIO10\EJERCICIO10\obj\Debug\EJERCICIO10.pdb
+C:\Users\Aaron\source\repos\EJERCICIO10\EJERCICIO10\bin\Debug\Telegram.dll
+C:\Users\Aaron\source\repos\EJERCICIO10\EJERCICIO10\obj\Debug\EJERCICIO10.csproj.CopyComplete

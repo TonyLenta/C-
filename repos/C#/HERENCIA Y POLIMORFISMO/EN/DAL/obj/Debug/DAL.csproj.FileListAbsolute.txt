@@ -1,0 +1,2 @@
+C:\Users\L-BOSS-W-001\source\repos\C#\HERENCIA Y POLIMORFISMO\EN\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\L-BOSS-W-001\source\repos\C#\HERENCIA Y POLIMORFISMO\EN\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\L-BOSS-W-001\source\repos\C#\PROGRAMACION N CAPAS\Capasin\EN\bin\Debug\EN.dll.config
+C:\Users\L-BOSS-W-001\source\repos\C#\PROGRAMACION N CAPAS\Capasin\EN\bin\Debug\EN.dll
+C:\Users\L-BOSS-W-001\source\repos\C#\PROGRAMACION N CAPAS\Capasin\EN\bin\Debug\EN.pdb
+C:\Users\L-BOSS-W-001\source\repos\C#\PROGRAMACION N CAPAS\Capasin\EN\obj\Debug\EN.csproj.CoreCompileInputs.cache
+C:\Users\L-BOSS-W-001\source\repos\C#\PROGRAMACION N CAPAS\Capasin\EN\obj\Debug\EN.dll
+C:\Users\L-BOSS-W-001\source\repos\C#\PROGRAMACION N CAPAS\Capasin\EN\obj\Debug\EN.pdb
+C:\Users\L-BOSS-W-001\source\repos\C#\PROGRAMACION N CAPAS\Capasin\EN\obj\Debug\EN.csprojAssemblyReference.cache

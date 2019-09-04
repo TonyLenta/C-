@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\ejercicio15\ejercicio15\bin\Debug\ejercicio15.exe.config
+C:\Users\User\source\repos\ejercicio15\ejercicio15\bin\Debug\ejercicio15.exe
+C:\Users\User\source\repos\ejercicio15\ejercicio15\bin\Debug\ejercicio15.pdb
+C:\Users\User\source\repos\ejercicio15\ejercicio15\obj\Debug\ejercicio15.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ejercicio15\ejercicio15\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\ejercicio15\ejercicio15\obj\Debug\App.g.cs
+C:\Users\User\source\repos\ejercicio15\ejercicio15\obj\Debug\ejercicio15_MarkupCompile.cache
+C:\Users\User\source\repos\ejercicio15\ejercicio15\obj\Debug\ejercicio15_MarkupCompile.lref
+C:\Users\User\source\repos\ejercicio15\ejercicio15\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\ejercicio15\ejercicio15\obj\Debug\ejercicio15.g.resources
+C:\Users\User\source\repos\ejercicio15\ejercicio15\obj\Debug\ejercicio15.Properties.Resources.resources
+C:\Users\User\source\repos\ejercicio15\ejercicio15\obj\Debug\ejercicio15.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ejercicio15\ejercicio15\obj\Debug\ejercicio15.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ejercicio15\ejercicio15\obj\Debug\ejercicio15.exe
+C:\Users\User\source\repos\ejercicio15\ejercicio15\obj\Debug\ejercicio15.pdb
+C:\Users\User\source\repos\ejercicio15\ejercicio15\bin\Debug\Telegram.dll
+C:\Users\User\source\repos\ejercicio15\ejercicio15\obj\Debug\ejercicio15.csproj.CopyComplete

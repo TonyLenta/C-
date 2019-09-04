@@ -1,0 +1,17 @@
+C:\Users\ULTRABOOK\source\repos\Vacunas\Vacunas\bin\Debug\Vacunas.exe.config
+C:\Users\ULTRABOOK\source\repos\Vacunas\Vacunas\bin\Debug\Vacunas.exe
+C:\Users\ULTRABOOK\source\repos\Vacunas\Vacunas\bin\Debug\Vacunas.pdb
+C:\Users\ULTRABOOK\source\repos\Vacunas\Vacunas\obj\Debug\Vacunas.csprojAssemblyReference.cache
+C:\Users\ULTRABOOK\source\repos\Vacunas\Vacunas\obj\Debug\MainWindow.g.cs
+C:\Users\ULTRABOOK\source\repos\Vacunas\Vacunas\obj\Debug\App.g.cs
+C:\Users\ULTRABOOK\source\repos\Vacunas\Vacunas\obj\Debug\Vacunas_MarkupCompile.cache
+C:\Users\ULTRABOOK\source\repos\Vacunas\Vacunas\obj\Debug\Vacunas_MarkupCompile.lref
+C:\Users\ULTRABOOK\source\repos\Vacunas\Vacunas\obj\Debug\MainWindow.baml
+C:\Users\ULTRABOOK\source\repos\Vacunas\Vacunas\obj\Debug\Vacunas.g.resources
+C:\Users\ULTRABOOK\source\repos\Vacunas\Vacunas\obj\Debug\Vacunas.Properties.Resources.resources
+C:\Users\ULTRABOOK\source\repos\Vacunas\Vacunas\obj\Debug\Vacunas.csproj.GenerateResource.cache
+C:\Users\ULTRABOOK\source\repos\Vacunas\Vacunas\obj\Debug\Vacunas.csproj.CoreCompileInputs.cache
+C:\Users\ULTRABOOK\source\repos\Vacunas\Vacunas\obj\Debug\Vacunas.exe
+C:\Users\ULTRABOOK\source\repos\Vacunas\Vacunas\obj\Debug\Vacunas.pdb
+C:\Users\ULTRABOOK\source\repos\Vacunas\Vacunas\bin\Debug\Telegram.dll
+C:\Users\ULTRABOOK\source\repos\Vacunas\Vacunas\obj\Debug\Vacunas.csproj.CopyComplete

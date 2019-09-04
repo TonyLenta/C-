@@ -1,0 +1,15 @@
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO VIDEO 22\GestioDeCuetasAhorro\GestioDeCuetasAhorro\obj\Debug\GestioDeCuetasAhorro.csprojAssemblyReference.cache
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO VIDEO 22\GestioDeCuetasAhorro\GestioDeCuetasAhorro\obj\Debug\MainWindow.g.cs
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO VIDEO 22\GestioDeCuetasAhorro\GestioDeCuetasAhorro\obj\Debug\App.g.cs
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO VIDEO 22\GestioDeCuetasAhorro\GestioDeCuetasAhorro\obj\Debug\GestioDeCuetasAhorro_MarkupCompile.cache
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO VIDEO 22\GestioDeCuetasAhorro\GestioDeCuetasAhorro\obj\Debug\GestioDeCuetasAhorro_MarkupCompile.lref
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO VIDEO 22\GestioDeCuetasAhorro\GestioDeCuetasAhorro\bin\Debug\GestioDeCuetasAhorro.exe.config
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO VIDEO 22\GestioDeCuetasAhorro\GestioDeCuetasAhorro\bin\Debug\GestioDeCuetasAhorro.exe
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO VIDEO 22\GestioDeCuetasAhorro\GestioDeCuetasAhorro\bin\Debug\GestioDeCuetasAhorro.pdb
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO VIDEO 22\GestioDeCuetasAhorro\GestioDeCuetasAhorro\obj\Debug\MainWindow.baml
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO VIDEO 22\GestioDeCuetasAhorro\GestioDeCuetasAhorro\obj\Debug\GestioDeCuetasAhorro.g.resources
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO VIDEO 22\GestioDeCuetasAhorro\GestioDeCuetasAhorro\obj\Debug\GestioDeCuetasAhorro.Properties.Resources.resources
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO VIDEO 22\GestioDeCuetasAhorro\GestioDeCuetasAhorro\obj\Debug\GestioDeCuetasAhorro.csproj.GenerateResource.cache
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO VIDEO 22\GestioDeCuetasAhorro\GestioDeCuetasAhorro\obj\Debug\GestioDeCuetasAhorro.csproj.CoreCompileInputs.cache
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO VIDEO 22\GestioDeCuetasAhorro\GestioDeCuetasAhorro\obj\Debug\GestioDeCuetasAhorro.exe
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO VIDEO 22\GestioDeCuetasAhorro\GestioDeCuetasAhorro\obj\Debug\GestioDeCuetasAhorro.pdb

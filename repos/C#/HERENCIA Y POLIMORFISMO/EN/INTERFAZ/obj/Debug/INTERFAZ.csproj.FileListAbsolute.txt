@@ -1,0 +1,4 @@
+C:\Users\L-BOSS-W-001\source\repos\C#\HERENCIA Y POLIMORFISMO\EN\INTERFAZ\obj\Debug\INTERFAZ.csprojAssemblyReference.cache
+C:\Users\L-BOSS-W-001\source\repos\C#\HERENCIA Y POLIMORFISMO\EN\INTERFAZ\obj\Debug\InterfazMotocicleta.g.cs
+C:\Users\L-BOSS-W-001\source\repos\C#\HERENCIA Y POLIMORFISMO\EN\INTERFAZ\obj\Debug\INTERFAZ_MarkupCompile.cache
+C:\Users\L-BOSS-W-001\source\repos\C#\HERENCIA Y POLIMORFISMO\EN\INTERFAZ\obj\Debug\INTERFAZ_MarkupCompile.lref

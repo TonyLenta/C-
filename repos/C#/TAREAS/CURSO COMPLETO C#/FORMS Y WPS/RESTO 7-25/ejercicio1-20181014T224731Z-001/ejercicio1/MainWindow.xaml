@@ -1,0 +1,28 @@
+﻿<Window x:Class="ejercicio1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ejercicio1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="label" Content="Numero 1" HorizontalAlignment="Left" Margin="56,31,0,0" VerticalAlignment="Top"/>
+
+        <TextBox x:Name="txtNumero1" HorizontalAlignment="Left" Height="20" Margin="41,63,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="98"/>
+        <Label x:Name="label_Copy" Content="Resultado" HorizontalAlignment="Left" Margin="60,217,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtResultado" HorizontalAlignment="Left" Height="20" Margin="66,249,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="98"/>
+
+
+        <GroupBox x:Name="groupBox1" Header="Resultado" HorizontalAlignment="Left" Height="104" Margin="13,190,0,0" VerticalAlignment="Top" Width="471"/>
+        <Label Content="Numero 2" HorizontalAlignment="Left" Margin="163,31,0,0" VerticalAlignment="Top"/>
+        <GroupBox x:Name="groupBox_Copy" Header="Ingrese Datos" HorizontalAlignment="Left" Height="175" Margin="13,10,0,0" VerticalAlignment="Top" Width="464"/>
+        <TextBox x:Name="txtNumero2" HorizontalAlignment="Left" Height="23" Margin="153,62,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnDividir" Content="Dividir" HorizontalAlignment="Left" Margin="337,153,0,0" VerticalAlignment="Top" Width="114" Click="btnDividir_Click"/>
+        <Button x:Name="btnLimpiar" Content="Limpiar" HorizontalAlignment="Left" Margin="44,148,0,0" VerticalAlignment="Top" Width="75" Click="btnLimpiar_Click"/>
+        <Button x:Name="btnSumar" Content="Sumar" HorizontalAlignment="Left" Margin="337,46,0,0" VerticalAlignment="Top" Width="121" Click="btnSumar_Click"/>
+        <Button x:Name="btnRestar" Content="Restar" HorizontalAlignment="Left" Margin="337,83,0,0" VerticalAlignment="Top" Width="121" Click="btnRestar_Click"/>
+        <Button x:Name="btnMultiplicar" Content="Multiplicar" HorizontalAlignment="Left" Margin="337,118,0,0" VerticalAlignment="Top" Width="121" Click="btnMultiplicar_Click"/>
+
+    </Grid>
+</Window>

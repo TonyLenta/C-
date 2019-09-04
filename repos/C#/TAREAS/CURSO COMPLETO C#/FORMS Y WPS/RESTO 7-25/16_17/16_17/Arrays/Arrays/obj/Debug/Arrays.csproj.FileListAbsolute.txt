@@ -1,0 +1,17 @@
+C:\Users\ULTRABOOK\source\repos\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\ULTRABOOK\source\repos\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\ULTRABOOK\source\repos\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\ULTRABOOK\source\repos\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\Users\ULTRABOOK\source\repos\Arrays\Arrays\obj\Debug\MainWindow.g.cs
+C:\Users\ULTRABOOK\source\repos\Arrays\Arrays\obj\Debug\App.g.cs
+C:\Users\ULTRABOOK\source\repos\Arrays\Arrays\obj\Debug\Arrays_MarkupCompile.cache
+C:\Users\ULTRABOOK\source\repos\Arrays\Arrays\obj\Debug\Arrays_MarkupCompile.lref
+C:\Users\ULTRABOOK\source\repos\Arrays\Arrays\obj\Debug\MainWindow.baml
+C:\Users\ULTRABOOK\source\repos\Arrays\Arrays\obj\Debug\Arrays.g.resources
+C:\Users\ULTRABOOK\source\repos\Arrays\Arrays\obj\Debug\Arrays.Properties.Resources.resources
+C:\Users\ULTRABOOK\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.GenerateResource.cache
+C:\Users\ULTRABOOK\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ULTRABOOK\source\repos\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\ULTRABOOK\source\repos\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\ULTRABOOK\source\repos\Arrays\Arrays\bin\Debug\Telegram.dll
+C:\Users\ULTRABOOK\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.CopyComplete

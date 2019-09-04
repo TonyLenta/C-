@@ -1,0 +1,56 @@
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\tutoriales\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\tutoriales\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\tutoriales\obj\Debug\Tutoriales.csproj.ResolveComReference.cache
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\tutoriales\bin\Debug\Spire.License.dll
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\tutoriales\bin\Debug\Spire.Pdf.dll
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\tutoriales\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\tutoriales\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\tutoriales\obj\Debug\Tutoriales.csprojResolveAssemblyReference.cache
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\tutoriales\obj\Debug\c_sahrp.frmvideo.resources
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\tutoriales\obj\Debug\c_sahrp.Properties.Resources.resources
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\tutoriales\obj\Debug\Tutoriales.csproj.GenerateResource.Cache
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\tutoriales\bin\Debug\tutoriales.exe.config
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\tutoriales\bin\Debug\tutoriales.exe
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\tutoriales\bin\Debug\tutoriales.pdb
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\tutoriales\obj\Debug\tutoriales.exe
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\tutoriales\obj\Debug\tutoriales.pdb
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Tutoriales\tutoriales\bin\Debug\tutoriales.exe.config
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Tutoriales\tutoriales\obj\Debug\tutoriales.exe
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Tutoriales\tutoriales\obj\Debug\tutoriales.pdb
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Tutoriales\tutoriales\bin\Debug\tutoriales.exe
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Tutoriales\tutoriales\bin\Debug\tutoriales.pdb
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Tutoriales\tutoriales\obj\Debug\Tutoriales.csprojResolveAssemblyReference.cache
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Tutoriales\tutoriales\obj\Debug\c_sahrp.Properties.Resources.resources
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Tutoriales\tutoriales\obj\Debug\Tutoriales.csproj.GenerateResource.Cache
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Tutoriales\tutoriales\obj\Debug\c_sahrp.frmprincipal.resources
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Tutoriales\tutoriales\bin\Debug\GerryStudios.dll
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Tutoriales\tutoriales\bin\Debug\GerryStudios.xml
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Tutoriales\tutoriales\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Tutoriales\tutoriales\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Tutoriales\tutoriales\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Tutoriales\tutoriales\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Tutoriales\tutoriales\obj\Debug\Tutoriales.csproj.ResolveComReference.cache
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\bin\Debug\tutoriales.exe.config
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\obj\Debug\Tutoriales.csproj.ResolveComReference.cache
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\obj\Debug\tutoriales.exe
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\obj\Debug\tutoriales.pdb
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\bin\Debug\tutoriales.exe
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\bin\Debug\tutoriales.pdb
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\bin\Debug\GerryStudios.dll
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\bin\Debug\GerryStudios.xml
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\obj\Debug\Tutoriales.csprojResolveAssemblyReference.cache
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\obj\Debug\c_sahrp.frmprincipal.resources
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\obj\Debug\c_sahrp.Properties.Resources.resources
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\obj\Debug\Tutoriales.csproj.GenerateResource.Cache
+C:\Users\Gepar\Desktop\Tutoriales\tutoriales\bin\Debug\tutoriales.exe.config
+C:\Users\Gepar\Desktop\Tutoriales\tutoriales\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Gepar\Desktop\Tutoriales\tutoriales\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Gepar\Desktop\Tutoriales\tutoriales\obj\Debug\Tutoriales.csproj.ResolveComReference.cache
+C:\Users\Gepar\Desktop\Tutoriales\tutoriales\obj\Debug\tutoriales.exe
+C:\Users\Gepar\Desktop\Tutoriales\tutoriales\obj\Debug\tutoriales.pdb

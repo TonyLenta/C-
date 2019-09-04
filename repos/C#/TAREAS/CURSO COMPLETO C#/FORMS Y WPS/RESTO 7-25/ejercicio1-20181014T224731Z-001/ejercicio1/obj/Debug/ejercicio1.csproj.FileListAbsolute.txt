@@ -1,0 +1,56 @@
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\EjerciciosPoo\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\EjerciciosPoo\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\EjerciciosPoo\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\App.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1_MarkupCompile.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1_MarkupCompile.lref
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\MainWindow.baml
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.g.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\bin\Debug\Newtonsoft.Json.dll
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\bin\Debug\Telegram.Bot.dll
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\bin\Debug\Telegram.dll
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\bin\Debug\Newtonsoft.Json.xml
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\bin\Debug\Telegram.Bot.xml
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csprojAssemblyReference.cache
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\MainWindow.g.cs
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\App.g.cs
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1_MarkupCompile.cache
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1_MarkupCompile.lref
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\MainWindow.baml
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.g.resources
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Properties.Resources.resources
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.GenerateResource.cache
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.CopyComplete
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+D:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\bin\Debug\Newtonsoft.Json.dll
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\bin\Debug\Telegram.Bot.dll
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\bin\Debug\Telegram.dll
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\bin\Debug\Newtonsoft.Json.xml
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\bin\Debug\Telegram.Bot.xml
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csprojAssemblyReference.cache
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\MainWindow.g.cs
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\App.g.cs
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1_MarkupCompile.cache
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1_MarkupCompile.lref
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\MainWindow.baml
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.g.resources
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Properties.Resources.resources
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.GenerateResource.cache
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.CoreCompileInputs.cache
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.CopyComplete
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+G:\Nueva carpeta\EjerciciosPoo\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb

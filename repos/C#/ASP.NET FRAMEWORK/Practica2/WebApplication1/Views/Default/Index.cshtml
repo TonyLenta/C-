@@ -1,0 +1,31 @@
+﻿
+@{
+    //Layout = null;
+    @Model WebApplication1.Models.Demo
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        Ejemlpo  MVC sin modelo
+    </div>
+    <div>
+        @ModelBinderAttribute
+    </div>
+    <div>
+        
+        @model.mensajeHtml 
+    </div>
+    <div>
+
+        @Html.Raw(Model.mensajeHtml)
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,5 @@
+C:\Users\L-BOSS-W-001\source\repos\C#\HERENCIA Y POLIMORFISMO\EN\EN\bin\Debug\EN.dll
+C:\Users\L-BOSS-W-001\source\repos\C#\HERENCIA Y POLIMORFISMO\EN\EN\bin\Debug\EN.pdb
+C:\Users\L-BOSS-W-001\source\repos\C#\HERENCIA Y POLIMORFISMO\EN\EN\obj\Debug\EN.csproj.CoreCompileInputs.cache
+C:\Users\L-BOSS-W-001\source\repos\C#\HERENCIA Y POLIMORFISMO\EN\EN\obj\Debug\EN.dll
+C:\Users\L-BOSS-W-001\source\repos\C#\HERENCIA Y POLIMORFISMO\EN\EN\obj\Debug\EN.pdb

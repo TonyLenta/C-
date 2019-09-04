@@ -1,0 +1,13 @@
+C:\Users\Aaron\source\repos\EJERCICIO24\Clases\bin\Debug\Clases.dll
+C:\Users\Aaron\source\repos\EJERCICIO24\Clases\bin\Debug\Clases.pdb
+C:\Users\Aaron\source\repos\EJERCICIO24\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\Aaron\source\repos\EJERCICIO24\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\EJERCICIO24\Clases\obj\Debug\Clases.dll
+C:\Users\Aaron\source\repos\EJERCICIO24\Clases\obj\Debug\Clases.pdb
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\RESTO 7-25\EJERCICIO24\EJERCICIO24\Clases\bin\Debug\Clases.dll
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\RESTO 7-25\EJERCICIO24\EJERCICIO24\Clases\bin\Debug\Clases.pdb
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\RESTO 7-25\EJERCICIO24\EJERCICIO24\Clases\bin\Debug\Telegram.dll
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\RESTO 7-25\EJERCICIO24\EJERCICIO24\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\RESTO 7-25\EJERCICIO24\EJERCICIO24\Clases\obj\Debug\Clases.csproj.CopyComplete
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\RESTO 7-25\EJERCICIO24\EJERCICIO24\Clases\obj\Debug\Clases.dll
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\RESTO 7-25\EJERCICIO24\EJERCICIO24\Clases\obj\Debug\Clases.pdb

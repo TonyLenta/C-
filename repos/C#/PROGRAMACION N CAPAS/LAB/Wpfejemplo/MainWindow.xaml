@@ -1,0 +1,24 @@
+﻿<Window x:Class="Wpfejemplo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpfejemplo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Formulario de agregar" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="330,22,0,0" Width="224"/>
+        <Label Content="Cedula :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="94,218,0,0" Width="88"/>
+        <Label Content="Apellido:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="94,160,0,0" Width="88"/>
+        <Label Content="Nombre :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="94,104,0,0" Width="88"/>
+        <TextBox x:Name="txtCedula" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="330" Margin="310,221,0,0"/>
+        <TextBox x:Name="txtApellido" HorizontalAlignment="Left" Height="24" TextWrapping="Wrap" VerticalAlignment="Top" Width="330" Margin="310,160,0,0"/>
+        <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Height="22" TextWrapping="Wrap" VerticalAlignment="Top" Width="330" Margin="310,108,0,0"/>
+        <Button x:Name="btnAgregar" Content="Agregar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="198,339,0,0" Click="btnAgregar_Click"/>
+        <Button x:Name="btnLimpiar" Content="Limpiar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="76" Margin="382,339,0,0" Click="btnLimpiar_Click"/>
+        <Button x:Name="btnConsultar" Content="Consultar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="74" Margin="548,339,0,0" Click="btnConsultar_Click"/>
+        <Label Content="Token" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="94,277,0,0"/>
+        <TextBox x:Name="txtToken" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="330" Margin="310,277,0,0"/>
+
+    </Grid>
+</Window>

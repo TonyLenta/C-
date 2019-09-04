@@ -1,0 +1,17 @@
+C:\Users\Fernando\source\repos\Ejercicio14Wpf\Ejercicio14Wpf\bin\Debug\Ejercicio14Wpf.exe.config
+C:\Users\Fernando\source\repos\Ejercicio14Wpf\Ejercicio14Wpf\bin\Debug\Ejercicio14Wpf.exe
+C:\Users\Fernando\source\repos\Ejercicio14Wpf\Ejercicio14Wpf\bin\Debug\Ejercicio14Wpf.pdb
+C:\Users\Fernando\source\repos\Ejercicio14Wpf\Ejercicio14Wpf\obj\Debug\Ejercicio14Wpf.csprojAssemblyReference.cache
+C:\Users\Fernando\source\repos\Ejercicio14Wpf\Ejercicio14Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\source\repos\Ejercicio14Wpf\Ejercicio14Wpf\obj\Debug\App.g.cs
+C:\Users\Fernando\source\repos\Ejercicio14Wpf\Ejercicio14Wpf\obj\Debug\Ejercicio14Wpf_MarkupCompile.cache
+C:\Users\Fernando\source\repos\Ejercicio14Wpf\Ejercicio14Wpf\obj\Debug\Ejercicio14Wpf_MarkupCompile.lref
+C:\Users\Fernando\source\repos\Ejercicio14Wpf\Ejercicio14Wpf\obj\Debug\MainWindow.baml
+C:\Users\Fernando\source\repos\Ejercicio14Wpf\Ejercicio14Wpf\obj\Debug\Ejercicio14Wpf.g.resources
+C:\Users\Fernando\source\repos\Ejercicio14Wpf\Ejercicio14Wpf\obj\Debug\Ejercicio14Wpf.Properties.Resources.resources
+C:\Users\Fernando\source\repos\Ejercicio14Wpf\Ejercicio14Wpf\obj\Debug\Ejercicio14Wpf.csproj.GenerateResource.cache
+C:\Users\Fernando\source\repos\Ejercicio14Wpf\Ejercicio14Wpf\obj\Debug\Ejercicio14Wpf.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\Ejercicio14Wpf\Ejercicio14Wpf\obj\Debug\Ejercicio14Wpf.exe
+C:\Users\Fernando\source\repos\Ejercicio14Wpf\Ejercicio14Wpf\obj\Debug\Ejercicio14Wpf.pdb
+C:\Users\Fernando\source\repos\Ejercicio14Wpf\Ejercicio14Wpf\bin\Debug\Telegram.dll
+C:\Users\Fernando\source\repos\Ejercicio14Wpf\Ejercicio14Wpf\obj\Debug\Ejercicio14Wpf.csproj.CopyComplete

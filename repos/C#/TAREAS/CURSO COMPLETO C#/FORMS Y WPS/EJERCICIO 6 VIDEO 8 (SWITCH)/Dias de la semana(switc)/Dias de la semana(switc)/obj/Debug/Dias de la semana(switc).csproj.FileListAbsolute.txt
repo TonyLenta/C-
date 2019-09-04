@@ -1,0 +1,15 @@
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO 6 VIDEO 8 (SWITCH)\Dias de la semana(switc)\Dias de la semana(switc)\bin\Debug\Dias de la semana(switc).exe.config
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO 6 VIDEO 8 (SWITCH)\Dias de la semana(switc)\Dias de la semana(switc)\bin\Debug\Dias de la semana(switc).exe
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO 6 VIDEO 8 (SWITCH)\Dias de la semana(switc)\Dias de la semana(switc)\bin\Debug\Dias de la semana(switc).pdb
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO 6 VIDEO 8 (SWITCH)\Dias de la semana(switc)\Dias de la semana(switc)\obj\Debug\Dias de la semana(switc).csprojAssemblyReference.cache
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO 6 VIDEO 8 (SWITCH)\Dias de la semana(switc)\Dias de la semana(switc)\obj\Debug\MainWindow.g.cs
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO 6 VIDEO 8 (SWITCH)\Dias de la semana(switc)\Dias de la semana(switc)\obj\Debug\App.g.cs
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO 6 VIDEO 8 (SWITCH)\Dias de la semana(switc)\Dias de la semana(switc)\obj\Debug\Dias de la semana(switc)_MarkupCompile.cache
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO 6 VIDEO 8 (SWITCH)\Dias de la semana(switc)\Dias de la semana(switc)\obj\Debug\Dias de la semana(switc)_MarkupCompile.lref
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO 6 VIDEO 8 (SWITCH)\Dias de la semana(switc)\Dias de la semana(switc)\obj\Debug\MainWindow.baml
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO 6 VIDEO 8 (SWITCH)\Dias de la semana(switc)\Dias de la semana(switc)\obj\Debug\Dias de la semana(switc).g.resources
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO 6 VIDEO 8 (SWITCH)\Dias de la semana(switc)\Dias de la semana(switc)\obj\Debug\Dias_de_la_semana_switc_.Properties.Resources.resources
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO 6 VIDEO 8 (SWITCH)\Dias de la semana(switc)\Dias de la semana(switc)\obj\Debug\Dias de la semana(switc).csproj.GenerateResource.cache
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO 6 VIDEO 8 (SWITCH)\Dias de la semana(switc)\Dias de la semana(switc)\obj\Debug\Dias de la semana(switc).csproj.CoreCompileInputs.cache
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO 6 VIDEO 8 (SWITCH)\Dias de la semana(switc)\Dias de la semana(switc)\obj\Debug\Dias de la semana(switc).exe
+C:\Users\L-BOSS-W-001\source\repos\C#\TAREAS\CURSO COMPLETO C#\FORMS Y WPS\EJERCICIO 6 VIDEO 8 (SWITCH)\Dias de la semana(switc)\Dias de la semana(switc)\obj\Debug\Dias de la semana(switc).pdb

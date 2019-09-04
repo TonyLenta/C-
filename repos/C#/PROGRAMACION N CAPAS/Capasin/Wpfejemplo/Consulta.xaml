@@ -1,0 +1,29 @@
+﻿<Window x:Class="Wpfejemplo.Consulta"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpfejemplo"
+        mc:Ignorable="d"
+        Title="Consulta" Height="450" Width="800">
+  <Grid>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="5*"/>
+      <ColumnDefinition Width="17*"/>
+    </Grid.ColumnDefinitions>
+    <Label x:Name="Estado_" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="115,299,0,0"/>
+    <Label Content="Ventas" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="115,0,0,139"/>
+    <Label Content="Nombre:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="115,209,0,0"/>
+    <Label x:Name="Buscar" Content="Buscar:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="88,54,0,0" Width="119" Grid.ColumnSpan="2"/>
+    <Label Content="Formulario de consulta" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="179.602,8,0,0" Grid.Column="1"/>
+    <TextBox x:Name="txtMostrar" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="294" Margin="149,54,0,0" Grid.ColumnSpan="2"/>
+    <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="253" Margin="10,213,0,0" Grid.Column="1"/>
+    <TextBox x:Name="txtVentas" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="253" Margin="10,257,0,0" Grid.Column="1"/>
+    <TextBox x:Name="txtEstado" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="253" Margin="10,299,0,0" Grid.Column="1"/>
+    <Button x:Name="btn" Content="Volver" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="323.602,348,0,0" Grid.Column="1" Click="btn_Click"/>
+    <Button x:Name="btnEliminar" Content="Eliminar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="142.602,348,0,0" Grid.Column="1" Click="btnEliminar_Click"/>
+    <Button x:Name="btnModificar" Content="Modificar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="132,348,0,0" Click="Button_Click" Grid.ColumnSpan="2"/>
+    <Button x:Name="BtnMostrar" Content="Mostrar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="344,47,0,0" Grid.Column="1" Click="Button_Click_1"/>
+    <DataGrid x:Name="dgdatos" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="529" Margin="149,103,0,0" Grid.ColumnSpan="2" SelectionChanged="dgdatos_SelectionChanged"/>
+  </Grid>
+</Window>

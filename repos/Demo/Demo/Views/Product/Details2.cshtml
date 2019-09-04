@@ -1,0 +1,39 @@
+﻿@model ModelCL.Product
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details2</title>
+</head>
+<body>
+    <defaultConnectionFactory type="System.Data.Entity.Infrastructure.LocalDbConnectionFactory, EntityFramework">
+        <div>
+            ProductId
+        </div>
+        <div>
+            @Model.ProductID
+        </div>
+        <div>
+            Nombre
+        </div>
+        <div>
+            @Model.ProductName
+        </div>
+        <div>
+            Stock
+        </div>
+        <div>
+            @Model.UnitsInStock
+        </div>
+
+        <p>
+            @Html.ActionLink("Edit", "Edit", new { id = Model.ProductID }) |
+            @Html.ActionLink("Back to List", "Index")
+        </p>
+</body>
+</html>

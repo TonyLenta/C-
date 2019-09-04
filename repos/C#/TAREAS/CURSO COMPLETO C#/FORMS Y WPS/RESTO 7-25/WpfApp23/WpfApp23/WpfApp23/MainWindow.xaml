@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfApp23.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp23"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="410.106" Width="544.681" Background="{DynamicResource {x:Static SystemColors.ControlDarkDarkBrushKey}}">
+    <Grid Margin="0,0,2,11">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="503*"/>
+            <ColumnDefinition Width="32*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="btnObjeto1" Content="Objeto1" HorizontalAlignment="Left" Margin="187,33,0,0" VerticalAlignment="Top" Width="140" Height="57" Background="{DynamicResource {x:Static SystemColors.InfoBrushKey}}" Click="btnObjeto1_Click" FontFamily="Segoe UI Black" FontSize="16"/>
+        <Button x:Name="btnObjeto2" Content="Objeto2" HorizontalAlignment="Left" Margin="187,121,0,0" VerticalAlignment="Top" Width="140" Height="55" Background="{DynamicResource {x:Static SystemColors.InfoBrushKey}}" Click="btnObjeto2_Click" FontFamily="Segoe UI Black" FontSize="16"/>
+        <Button x:Name="btnObjeto3" Content="Objeto3" HorizontalAlignment="Left" Margin="187,200,0,0" VerticalAlignment="Top" Width="140" Height="57" Background="{DynamicResource {x:Static SystemColors.InfoBrushKey}}" Click="btnObjeto3_Click" FontFamily="Segoe UI Black" FontSize="16"/>
+        <TextBox x:Name="txtResultado" HorizontalAlignment="Left" Height="44" Margin="90,292,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="347" FontSize="16"/>
+        <Button Content="Limpiar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="101" Margin="38,200,0,0" Height="57" FontFamily="Segoe UI Black" FontSize="16" Click="Button_Click"/>
+        <Button Content="Salir" HorizontalAlignment="Left" VerticalAlignment="Top" Width="112" Margin="381,200,0,0" Height="57" FontFamily="Segoe UI Black" FontSize="16" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>

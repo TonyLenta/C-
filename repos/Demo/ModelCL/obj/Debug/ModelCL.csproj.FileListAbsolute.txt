@@ -1,0 +1,6 @@
+C:\Users\L-BOSS-W-001\source\repos\Demo\ModelCL\bin\Debug\ModelCL.dll
+C:\Users\L-BOSS-W-001\source\repos\Demo\ModelCL\bin\Debug\ModelCL.pdb
+C:\Users\L-BOSS-W-001\source\repos\Demo\ModelCL\obj\Debug\ModelCL.csprojAssemblyReference.cache
+C:\Users\L-BOSS-W-001\source\repos\Demo\ModelCL\obj\Debug\ModelCL.csproj.CoreCompileInputs.cache
+C:\Users\L-BOSS-W-001\source\repos\Demo\ModelCL\obj\Debug\ModelCL.dll
+C:\Users\L-BOSS-W-001\source\repos\Demo\ModelCL\obj\Debug\ModelCL.pdb

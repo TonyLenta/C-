@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GerryStudios</name>
+    </assembly>
+    <members>
+        <member name="T:GerryStudios.Sql.ConsultasSQL">
+            <summary>
+            Crea una instancia a la clase para realizar las consultas SQL.
+            </summary>
+        </member>
+        <member name="M:GerryStudios.Sql.ConsultasSQL.MostrarDatos(System.String)">
+            <summary>
+            Método para mostrar datos de una tabla sql (Devuelve un DataTable).
+            </summary>
+            <param name="tabla">Especifica el nombre de la tabla en la cual se efectuarán los cambios.</param>
+        </member>
+        <member name="M:GerryStudios.Sql.ConsultasSQL.Insertar(System.String,System.String[])">
+            <summary>
+            Método para insertar filas en una tabla sql (Devuelve un valor booleano (true si el comando se ha realizado correctamente)).
+            </summary>
+            <param name="tabla">Especifica el nombre de la tabla en la cual se efectuarán los cambios.</param>
+            <param name="ValoresDeColumnas">Indica una colección de strings en la cual cada string pertenecerá a una columna distinta al agregar la fila (si el valor de la columna es nvarchar o varchar hay que abrir y cerrar las comillas (')).</param>
+        </member>
+        <member name="M:GerryStudios.Sql.ConsultasSQL.Eliminar(System.String,System.String,System.String)">
+            <summary>
+            Método para eliminar filas de una tabla sql (Devuelve un valor booleano (true si el comando se ha realizado correctamente)).
+            </summary>
+            <param name="tabla">Especifica el nombre de la tabla en la cual se efectuarán los cambios.</param>
+            <param name="ColumnaDeReferencia">Indica el nombre de la columna que tomaremos de referencia para eliminar la fila.</param>
+            <param name="ValorDeColumnaDeReferencia">Especifica el valor de la columna de referencia elegida para eliminar la fila.</param>
+        </member>
+        <member name="M:GerryStudios.Sql.ConsultasSQL.Actualizar(System.String,System.String[],System.String[],System.String,System.String)">
+            <summary>
+            Método para actualizar filas de una tabla sql (Devuelve un valor booleano (true si el comando se ha realizado correctamente)).
+            </summary>
+            <param name="tabla">Especifica el nombre de la tabla en la cual se efectuarán los cambios.</param>
+            <param name="NombresDeColumnasParaEditar">Especifica una colección de strings que indica los nombres de las columnas que se quieren cambiar los valores.</param>
+            <param name="ValoresDeColumnasParaEditar">Especifica una colección de strings que indica los valores nuevos para las columnas elegidas en el parámetro anterior.</param>
+            <param name="ColumnaDeReferencia">Indica el nombre de la columna que tomaremos de referencia para actualizar datos.</param>
+            <param name="ValorDeColumnaDeReferencia">Especifica el valor de la columna de referencia elegida.</param>
+        </member>
+        <member name="M:GerryStudios.Sql.ConsultasSQL.Buscar(System.String,System.String,System.String)">
+            <summary>
+            Método para buscar filas de una tabla sql (Devuelve un DataTable).
+            </summary>
+            <param name="tabla">Especifica el nombre de la tabla en la cual se efectuarán los cambios.</param>
+            <param name="ColumnaDeReferencia">Indica el nombre de la columna que tomaremos de referencia para buscar datos.</param>
+            <param name="ValorDeColumnaDeReferencia">Especifica el valor de la columna de referencia elegida.</param>
+        </member>
+        <member name="P:GerryStudios.Sql.ConsultasSQL.CadenaDeconexionexion">
+            <summary>
+            Asigna o retorna el valor (en string) de la cadena de conexión SQL.
+            </summary>
+        </member>
+        <member name="T:GerryStudios.AutoRellenarComboBox.InsertarEnComboBox">
+            <summary>
+            Crea una instancia a la clase para insertar en un comboBox o en un listBox ciertos elementos como las fuentes o los colores.
+            </summary>
+        </member>
+        <member name="M:GerryStudios.AutoRellenarComboBox.InsertarEnComboBox.InsertarFuentes(System.Windows.Forms.ComboBox,System.Boolean)">
+            <summary>
+            Método para cargar todas las fuentes del sistema en un ComboBox.
+            </summary>
+            <param name="cmb">ComboBox en el cual se insertaran las fuentes.</param>
+            <param name="personalizar">'True' para que cada fuete del comboBox esté escrita en su fuente.</param>
+        </member>
+        <member name="M:GerryStudios.AutoRellenarComboBox.InsertarEnComboBox.InsertarFuentes(System.Windows.Forms.ListBox,System.Boolean)">
+            <summary>
+            Método para cargar todas las fuentes del sistema en un ListBox.
+            </summary>
+            <param name="lb">ListBox en el cual se insertaran las fuentes.</param>
+            <param name="personalizar">'True' para que cada fuete del listBox esté escrita en su fuente.</param>
+        </member>
+        <member name="M:GerryStudios.AutoRellenarComboBox.InsertarEnComboBox.InsertarColores(System.Windows.Forms.ComboBox,System.Boolean)">
+            <summary>
+            Método para cargar todos los colores del sistema en un ComboBox.
+            </summary>
+            <param name="cmb">ComboBox en el cual se insertaran los colores.</param>
+            <param name="personalizar">'True' para que cada item del comboBox tenga a la izquierda del nombre una muestra del color.</param>
+        </member>
+        <member name="M:GerryStudios.AutoRellenarComboBox.InsertarEnComboBox.InsertarColores(System.Windows.Forms.ListBox,System.Boolean)">
+            <summary>
+            Método para cargar todos los colores del sistema en un ListBox.
+            </summary>
+            <param name="lb">ListBox en el cual se insertaran los colores.</param>
+            <param name="personalizar">'True' para que cada item del listBox tenga a la izquierda del nombre una muestra del color.</param>
+        </member>
+    </members>
+</doc>

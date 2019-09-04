@@ -1,0 +1,35 @@
+C:\Users\L-BOSS-W-001\source\repos\TAREA\Creador clientes\Creador clientes\obj\Debug\Creador clientes.csprojAssemblyReference.cache
+C:\Users\L-BOSS-W-001\source\repos\TAREA\Creador clientes\Creador clientes\obj\Debug\MainWindow.g.cs
+C:\Users\L-BOSS-W-001\source\repos\TAREA\Creador clientes\Creador clientes\obj\Debug\App.g.cs
+C:\Users\L-BOSS-W-001\source\repos\TAREA\Creador clientes\Creador clientes\obj\Debug\Creador clientes_MarkupCompile.cache
+C:\Users\L-BOSS-W-001\source\repos\TAREA\Creador clientes\Creador clientes\obj\Debug\Creador clientes_MarkupCompile.lref
+C:\Users\L-BOSS-W-001\source\repos\TAREA\Creador clientes\Creador clientes\bin\Debug\Creador clientes.exe.config
+C:\Users\L-BOSS-W-001\source\repos\TAREA\Creador clientes\Creador clientes\bin\Debug\Creador clientes.exe
+C:\Users\L-BOSS-W-001\source\repos\TAREA\Creador clientes\Creador clientes\bin\Debug\Creador clientes.pdb
+C:\Users\L-BOSS-W-001\source\repos\TAREA\Creador clientes\Creador clientes\obj\Debug\MainWindow.baml
+C:\Users\L-BOSS-W-001\source\repos\TAREA\Creador clientes\Creador clientes\obj\Debug\Creador clientes.g.resources
+C:\Users\L-BOSS-W-001\source\repos\TAREA\Creador clientes\Creador clientes\obj\Debug\Creador_clientes.Properties.Resources.resources
+C:\Users\L-BOSS-W-001\source\repos\TAREA\Creador clientes\Creador clientes\obj\Debug\Creador clientes.csproj.GenerateResource.cache
+C:\Users\L-BOSS-W-001\source\repos\TAREA\Creador clientes\Creador clientes\obj\Debug\Creador clientes.csproj.CoreCompileInputs.cache
+C:\Users\L-BOSS-W-001\source\repos\TAREA\Creador clientes\Creador clientes\obj\Debug\Creador clientes.exe
+C:\Users\L-BOSS-W-001\source\repos\TAREA\Creador clientes\Creador clientes\obj\Debug\Creador clientes.pdb
+C:\Users\L-BOSS-W-001\source\repos\TAREA\Creador clientes\Creador clientes\obj\Debug\Window1.g.cs
+C:\Users\L-BOSS-W-001\source\repos\TAREA\Creador clientes\Creador clientes\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\L-BOSS-W-001\source\repos\TAREA\Creador clientes\Creador clientes\obj\Debug\Window1.baml
+C:\Users\L-BOSS-W-001\source\repos\C#\WPS\TAREA\Creador clientes\Creador clientes\bin\Debug\Creador clientes.exe.config
+C:\Users\L-BOSS-W-001\source\repos\C#\WPS\TAREA\Creador clientes\Creador clientes\bin\Debug\Creador clientes.exe
+C:\Users\L-BOSS-W-001\source\repos\C#\WPS\TAREA\Creador clientes\Creador clientes\bin\Debug\Creador clientes.pdb
+C:\Users\L-BOSS-W-001\source\repos\C#\WPS\TAREA\Creador clientes\Creador clientes\obj\Debug\Creador clientes.csprojAssemblyReference.cache
+C:\Users\L-BOSS-W-001\source\repos\C#\WPS\TAREA\Creador clientes\Creador clientes\obj\Debug\MainWindow.g.cs
+C:\Users\L-BOSS-W-001\source\repos\C#\WPS\TAREA\Creador clientes\Creador clientes\obj\Debug\Window1.g.cs
+C:\Users\L-BOSS-W-001\source\repos\C#\WPS\TAREA\Creador clientes\Creador clientes\obj\Debug\App.g.cs
+C:\Users\L-BOSS-W-001\source\repos\C#\WPS\TAREA\Creador clientes\Creador clientes\obj\Debug\Creador clientes_MarkupCompile.cache
+C:\Users\L-BOSS-W-001\source\repos\C#\WPS\TAREA\Creador clientes\Creador clientes\obj\Debug\Creador clientes_MarkupCompile.lref
+C:\Users\L-BOSS-W-001\source\repos\C#\WPS\TAREA\Creador clientes\Creador clientes\obj\Debug\MainWindow.baml
+C:\Users\L-BOSS-W-001\source\repos\C#\WPS\TAREA\Creador clientes\Creador clientes\obj\Debug\Window1.baml
+C:\Users\L-BOSS-W-001\source\repos\C#\WPS\TAREA\Creador clientes\Creador clientes\obj\Debug\Creador clientes.g.resources
+C:\Users\L-BOSS-W-001\source\repos\C#\WPS\TAREA\Creador clientes\Creador clientes\obj\Debug\Creador_clientes.Properties.Resources.resources
+C:\Users\L-BOSS-W-001\source\repos\C#\WPS\TAREA\Creador clientes\Creador clientes\obj\Debug\Creador clientes.csproj.GenerateResource.cache
+C:\Users\L-BOSS-W-001\source\repos\C#\WPS\TAREA\Creador clientes\Creador clientes\obj\Debug\Creador clientes.csproj.CoreCompileInputs.cache
+C:\Users\L-BOSS-W-001\source\repos\C#\WPS\TAREA\Creador clientes\Creador clientes\obj\Debug\Creador clientes.exe
+C:\Users\L-BOSS-W-001\source\repos\C#\WPS\TAREA\Creador clientes\Creador clientes\obj\Debug\Creador clientes.pdb

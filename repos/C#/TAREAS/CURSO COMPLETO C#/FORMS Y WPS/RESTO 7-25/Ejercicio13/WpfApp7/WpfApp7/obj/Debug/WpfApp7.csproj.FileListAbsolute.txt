@@ -1,0 +1,17 @@
+C:\Users\brayan.borja\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe.config
+C:\Users\brayan.borja\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe
+C:\Users\brayan.borja\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.pdb
+C:\Users\brayan.borja\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csprojAssemblyReference.cache
+C:\Users\brayan.borja\source\repos\WpfApp7\WpfApp7\obj\Debug\MainWindow.g.cs
+C:\Users\brayan.borja\source\repos\WpfApp7\WpfApp7\obj\Debug\App.g.cs
+C:\Users\brayan.borja\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+C:\Users\brayan.borja\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+C:\Users\brayan.borja\source\repos\WpfApp7\WpfApp7\obj\Debug\MainWindow.baml
+C:\Users\brayan.borja\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.g.resources
+C:\Users\brayan.borja\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+C:\Users\brayan.borja\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.cache
+C:\Users\brayan.borja\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CoreCompileInputs.cache
+C:\Users\brayan.borja\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.exe
+C:\Users\brayan.borja\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.pdb
+C:\Users\brayan.borja\source\repos\WpfApp7\WpfApp7\bin\Debug\Telegram.dll
+C:\Users\brayan.borja\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CopyComplete
